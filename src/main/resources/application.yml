@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/taotao?characterEncoding=utf8
